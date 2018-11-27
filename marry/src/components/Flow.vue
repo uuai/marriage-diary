@@ -83,7 +83,7 @@
             zan: 0,
           },
           {
-            src: require('../../static/img/del/flow5.png'),
+            src: require('../../static/img/del/flow2.png'),
             flowText: "梦幻巴黎婚礼梦幻巴黎婚礼梦幻巴黎婚礼",
             userImg: require('../../static/img/del/userImg.png'),
             usernmae: "懒猫",
